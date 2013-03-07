@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Compass",
+		"GitGutter",
 		"HTML2Haml",
 		"Package Control",
 		"Sass",

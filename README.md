@@ -12,3 +12,4 @@ Install the following packages:
 - SCSS
 - Sidebar Enhancements
 - Theme - Soda (and color packs from https://github.com/buymeasoda/soda-theme)
+- GitGutter
